@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Всем привет! Меня зовут Иван👋
+🌱В данный момент я изучаю язык программирования Python и машинное обучение. Здесь буду выкладывать разные проекты
 <!--
 **ivanvinokurov23/ivanvinokurov23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
